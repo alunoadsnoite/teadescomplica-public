@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema claro (padrão) -->
+    <color name="background">#FAFAF9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surfaceVariant">#F3F4F1</color>
+    <color name="primary">#4A6780</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#E8EEF6</color>
+    <color name="onPrimaryContainer">#2E3A46</color>
+    <color name="secondary">#8F9E8F</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="onSurface">#232321</color>
+    <color name="onSurfaceVariant">#44463F</color>
+    <color name="outline">#C9CCCE</color>
+    <color name="error">#B3404A</color>
+    <color name="onError">#FFFFFF</color>
+</resources>

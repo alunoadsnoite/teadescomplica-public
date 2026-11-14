@@ -1,0 +1,63 @@
+# Android
+*.apk
+*.aapk
+*.apks
+*.aar
+*.dex
+*.class
+*.o
+*.so
+*.lib
+*.exe
+*.dll
+*.dylib
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.gradle/
+build/
+captures/
+navigationData.xml
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+*.key
+/app/signing.properties
+
+# Local configuration files
+local.properties
+*.cfg
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Proguard
+proguard/
+proguard-results.txt
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Version control
+.git/
+
+# Kotlin local build cache
+.kotlin/

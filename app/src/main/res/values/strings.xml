@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TEA Descomplica</string>
+    <string name="slogan">Prepare-se do seu jeito.</string>
+
+    <!-- Tela inicial -->
+    <string name="home_description">Organize informações, antecipe situações e registre estratégias pessoais para momentos do cotidiano — como entrevistas de emprego, consultas médicas, visitas a lugares desconhecidos e atendimentos em órgãos públicos.</string>
+    <string name="home_disclaimer">Este aplicativo não é uma ferramenta de diagnóstico, terapia, tratamento médico ou atendimento de emergência.</string>
+    <string name="home_data_local">Tudo fica armazenado apenas no seu dispositivo. Não é necessário criar conta nem usar internet.</string>
+    <string name="button_my_scenarios">Meus cenários</string>
+    <string name="button_settings">Configurações</string>
+
+    <!-- Tela Meus cenários -->
+    <string name="scenarios_title">Meus cenários</string>
+    <string name="scenarios_empty_title">Nenhum cenário ainda</string>
+    <string name="scenarios_empty_subtitle">Crie seu primeiro cenário para se preparar para uma situação do cotidiano.</string>
+    <string name="button_new_scenario">Criar cenário</string>
+    <string name="form_new_title">Novo cenário</string>
+    <string name="form_edit_title">Editar cenário</string>
+    <string name="field_title_label">Título</string>
+    <string name="field_title_required">O título é obrigatório.</string>
+    <string name="field_description_label">Descrição</string>
+    <string name="field_description_hint">O que é essa situação?</string>
+    <string name="field_objective_label">Objetivo</string>
+    <string name="field_objective_hint">O que você quer conseguir?</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="dialog_delete_title">Excluir cenário</string>
+    <string name="dialog_delete_message">Tem certeza de que deseja excluir este cenário? Esta ação não pode ser desfeita.</string>
+    <string name="dialog_confirm_delete">Excluir</string>
+    <string name="dialog_keep">Manter</string>
+    <string name="feedback_saved">Cenário salvo</string>
+    <string name="feedback_updated">Cenário atualizado</string>
+    <string name="feedback_deleted">Cenário excluído</string>
+    <string name="error_save">Não foi possível salvar o cenário. Tente novamente.</string>
+    <string name="error_delete">Não foi possível excluir o cenário. Tente novamente.</string>
+    <string name="scenario_updated_at">Atualizado em %1$s</string>
+
+    <!-- Tela Configurações -->
+    <string name="settings_title">Configurações</string>
+    <string name="settings_theme">Tema</string>
+    <string name="theme_system">Sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Escuro</string>
+    <string name="settings_reduced_motion">Reduzir animações</string>
+    <string name="settings_reduced_motion_summary">Desativa animações de interface.</string>
+    <string name="settings_privacy">Privacidade e dados</string>
+    <string name="settings_privacy_summary">Seus dados ficam apenas no seu dispositivo.</string>
+    <string name="privacy_text">Este aplicativo não coleta, transmite ou compartilha dados pessoais. Não exibe anúncios, não exige conta e não usa internet. Tudo é armazenado localmente no seu dispositivo.</string>
+    <string name="settings_developer">Desenvolvedor</string>
+    <string name="settings_developer_name">Valdenor</string>
+    <string name="settings_developer_email">alunoadsnoite@gmail.com</string>
+    <string name="settings_developer_email_copy">Copiar e-mail</string>
+    <string name="settings_feedback_copied">E-mail copiado para a área de transferência</string>
+    <string name="settings_version">Versão</string>
+    <string name="settings_local_data">Dados armazenados localmente</string>
+    <string name="local_data_text">Seus cenários e preferências são armazenados no banco de dados e nas preferências do próprio dispositivo, sem backup em nuvem.</string>
+
+    <!-- Acessibilidade -->
+    <string name="content_description_new_scenario">Criar novo cenário</string>
+    <string name="content_description_edit_scenario">Editar cenário %1$s</string>
+    <string name="content_description_delete_scenario">Excluir cenário %1$s</string>
+    <string name="content_description_save">Salvar cenário</string>
+
+    <!-- Tela de detalhes do cenário -->
+    <string name="scenario_detail_title">Detalhes do cenário</string>
+    <string name="content_description_back">Voltar</string>
+    <string name="content_description_view_mode">Modo de consulta</string>
+    <string name="content_description_add_situation">Adicionar situação possível</string>
+    <string name="content_description_add_plan">Adicionar plano alternativo</string>
+    <string name="content_description_add_phrase">Adicionar frase pessoal</string>
+    <string name="content_description_delete_situation">Excluir situação possível</string>
+    <string name="content_description_delete_plan">Excluir plano alternativo</string>
+    <string name="content_description_delete_phrase">Excluir frase pessoal</string>
+    <string name="content_description_edit_plan">Editar plano alternativo</string>
+    <string name="content_description_edit_phrase">Editar frase pessoal</string>
+    <string name="content_description_copy_phrase">Copiar frase</string>
+
+    <!-- Preparação -->
+    <string name="preparation_title">Minha preparação</string>
+    <string name="preparation_location_label">Onde será?</string>
+    <string name="preparation_location_empty">Não informado</string>
+    <string name="preparation_scheduled_label">Quando será?</string>
+    <string name="preparation_scheduled_empty">Não agendado</string>
+    <string name="preparation_what_to_expect_label">O que espero encontrar?</string>
+    <string name="preparation_what_to_bring_label">O que preciso levar?</string>
+    <string name="preparation_important_info_label">Informações importantes</string>
+    <string name="preparation_personal_notes_label">Minhas observações</string>
+    <string name="button_add_preparation">Adicionar preparação</string>
+
+    <!-- Situações possíveis -->
+    <string name="possible_situations_title">O que pode acontecer</string>
+    <string name="possible_situations_empty_title">Nenhuma situação possível ainda</string>
+    <string name="possible_situations_empty_subtitle">Adicione situações que podem acontecer para se antecipar.</string>
+    <string name="dialog_add_situation_title">Nova situação possível</string>
+    <string name="field_situation_description_label">Descrição</string>
+    <string name="field_situation_description_hint">O que pode acontecer?</string>
+    <string name="field_situation_likelihood_label">Possibilidade</string>
+    <string name="field_situation_likelihood_hint">Como você avalia a chance disso acontecer?</string>
+    <string name="likelihood_possible">Possível</string>
+    <string name="likelihood_uncertain">Incerto</string>
+
+    <!-- Planos alternativos -->
+    <string name="alternative_plans_title">Minhas alternativas</string>
+    <string name="alternative_plans_empty_title">Nenhum plano alternativo ainda</string>
+    <string name="alternative_plans_empty_subtitle">Adicione planos para o que fazer se algo mudar.</string>
+    <string name="dialog_add_plan_title">Novo plano alternativo</string>
+    <string name="field_plan_title_label">Título</string>
+    <string name="field_plan_description_label">Descrição</string>
+    <string name="field_plan_associate_situation_label">Associar a uma situação possível</string>
+    <string name="field_plan_associated_situation">Situação associada</string>
+    <string name="field_plan_no_situation">Nenhuma</string>
+    <string name="plan_associated_situation">Situação</string>
+
+    <!-- Frases pessoais -->
+    <string name="personal_phrases_title">Minhas frases</string>
+    <string name="personal_phrases_empty_title">Nenhuma frase ainda</string>
+    <string name="personal_phrases_empty_subtitle">Adicione frases que ajudem durante a experiência.</string>
+    <string name="dialog_add_phrase_title">Nova frase pessoal</string>
+    <string name="dialog_add_phrase_privacy">Ao copiar, o conteúdo será transferido para a área de transferência do Android, que pode ser acessível a outros componentes do sistema.</string>
+    <string name="field_phrase_text_label">Texto da frase</string>
+
+    <!-- Modo de consulta -->
+    <string name="query_mode_title">Minha preparação</string>
+    <string name="content_description_edit_mode">Modo de edição</string>
+    <string name="query_scenario_title_label">Cenário</string>
+    <string name="query_objective_label">Objetivo</string>
+    <string name="query_important_info_label">Informações importantes</string>
+    <string name="query_situations_title">O que pode acontecer</string>
+    <string name="query_situations_empty">Nenhuma situação possível cadastrada.</string>
+    <string name="query_plans_title">Minhas alternativas</string>
+    <string name="query_plans_empty">Nenhum plano alternativo cadastrado.</string>
+    <string name="query_phrases_title">Minhas frases</string>
+    <string name="query_phrases_empty">Nenhuma frase pessoal cadastrada.</string>
+
+    <!-- Botões adicionais -->
+    <string name="button_add">Adicionar</string>
+
+    <!-- Backup e Restauração -->
+    <string name="backup_and_restore_title">Backup e restauração</string>
+    <string name="backup_and_restore_button">Gerenciar backup</string>
+    <string name="backup_and_restore_summary">Criar ou restaurar backups criptografados de seus dados.</string>
+    <string name="backup_restore_title">Backup e restauração</string>
+    <string name="backup_restore_description">Crie um backup criptografado de seus cenários, experiências, estratégias e preferências. Você escolhe onde salvar o arquivo e define uma senha para protegê-lo.</string>
+    <string name="backup_create_button">Criar backup</string>
+    <string name="backup_restore_button">Restaurar backup</string>
+    <string name="backup_info_title">Informações</string>
+    <string name="backup_info_local">Os backups são salvos apenas no local que você escolher, usando o seletor de documentos do Android.</string>
+    <string name="backup_info_drive">O Google Drive pode ser usado quando disponível pelo seletor do Android. O aplicativo não se conecta diretamente ao Google Drive.</string>
+    <string name="backup_info_password_warning">Se você esquecer a senha do backup, não será possível recuperar o conteúdo desse arquivo.</string>
+    <string name="backup_info_privacy">Seus dados nunca são transmitidos pela rede. O backup é iniciado exclusivamente por você.</string>
+    <string name="backup_password_title">Definir senha do backup</string>
+    <string name="backup_password_label">Senha</string>
+    <string name="backup_password_confirm_label">Confirmar senha</string>
+    <string name="backup_password_mismatch">As senhas não coincidem.</string>
+    <string name="backup_password_warning_short">Use pelo menos 8 caracteres. Anote sua senha em um local seguro.</string>
+    <string name="backup_button_create">Criar backup criptografado</string>
+    <string name="backup_button_restore">Restaurar backup</string>
+    <string name="restore_password_title">Informar senha do backup</string>
+    <string name="content_description_backup_create">Criar backup</string>
+    <string name="content_description_backup_restore">Restaurar backup</string>
+    <string name="content_description_search">Pesquisar</string>
+    <string name="content_description_clear">Limpar pesquisa</string>
+
+
+    <!-- Minha Jornada -->
+    <string name="journey_title">Minha jornada</string>
+    <string name="journey_search_label">Pesquisar experiências</string>
+    <string name="journey_empty_title">Nenhuma experiência registrada ainda</string>
+    <string name="journey_empty_subtitle">Registre suas experiências para construir sua biblioteca pessoal.</string>
+    <string name="journey_search_empty_title">Nenhuma experiência encontrada</string>
+    <string name="journey_search_empty_subtitle">Tente outros termos de pesquisa.</string>
+    <string name="journey_no_date">Sem data informada</string>
+    <string name="journey_occurred_at_label">Quando aconteceu</string>
+    <string name="journey_scenario_related">Cenário relacionado</string>
+    <string name="content_description_record_experience">Registrar nova experiência</string>
+    <string name="content_description_strategy_library">Biblioteca de estratégias</string>
+
+    <!-- Registro de experiência -->
+    <string name="experience_record_title">Registrar experiência</string>
+    <string name="experience_edit_title">Editar experiência</string>
+    <string name="field_experience_title_label">Título</string>
+    <string name="field_experience_description_label">O que aconteceu?</string>
+    <string name="field_experience_description_hint">Descreva livremente o que aconteceu.</string>
+    <string name="field_experience_what_helped_label">O que me ajudou?</string>
+    <string name="field_experience_what_helped_hint">O que foi útil durante a experiência?</string>
+    <string name="field_experience_what_was_difficult_label">O que foi difícil?</string>
+    <string name="field_experience_what_was_difficult_hint">O que foi desafiador?</string>
+    <string name="field_experience_next_time_notes_label">O que gostaria de lembrar para a próxima vez?</string>
+    <string name="field_experience_next_time_notes_hint">Anotações para situações futuras.</string>
+    <string name="experience_occurred_at_label">Quando aconteceu?</string>
+    <string name="experience_strategies_label">Estratégias utilizadas</string>
+    <string name="experience_strategies_empty">Nenhuma estratégia cadastrada ainda.</string>
+    <string name="experience_scenario_related_label">Cenário relacionado</string>
+    <string name="experience_scenario_related_value">Cenário associado</string>
+    <string name="experience_scenario_none">Nenhum cenário relacionado</string>
+
+    <!-- Detalhes da experiência -->
+    <string name="experience_detail_title">Detalhes da experiência</string>
+    <string name="experience_detail_description_label">O que aconteceu</string>
+    <string name="experience_detail_what_helped_label">O que ajudou</string>
+    <string name="experience_detail_what_was_difficult_label">Dificuldades</string>
+    <string name="experience_detail_next_time_notes_label">Próxima vez</string>
+    <string name="experience_detail_scenario_related_label">Cenário relacionado</string>
+    <string name="experience_detail_scenario_related_value">Cenário associado</string>
+    <string name="experience_detail_strategies_label">Estratégias associadas</string>
+    <string name="content_description_edit_experience">Editar experiência</string>
+    <string name="content_description_delete_experience">Excluir experiência</string>
+    <string name="dialog_delete_experience_title">Excluir experiência</string>
+    <string name="dialog_delete_experience_message">Tem certeza de que deseja excluir esta experiência? Esta ação não pode ser desfeita.</string>
+
+    <!-- Biblioteca de estratégias -->
+    <string name="strategy_library_title">Minhas estratégias</string>
+    <string name="strategy_library_empty_title">Nenhuma estratégia cadastrada ainda</string>
+    <string name="strategy_library_empty_subtitle">Crie estratégias para reutilizar em diferentes experiências.</string>
+    <string name="strategy_detail_title">Detalhes da estratégia</string>
+    <string name="content_description_create_strategy">Criar nova estratégia</string>
+    <string name="content_description_edit_strategy">Editar estratégia</string>
+    <string name="content_description_delete_strategy">Excluir estratégia</string>
+    <string name="dialog_delete_strategy_title">Excluir estratégia</string>
+    <string name="dialog_delete_strategy_message">Tem certeza de que deseja excluir esta estratégia? Suas associações com experiências serão removidas.</string>
+
+    <!-- Shared UI text -->
+    <string name="ui_home">Início</string>
+    <string name="ui_quick_view">Consultar</string>
+    <string name="ui_add_information_that_helps_you_prepare">Adicione as informações que ajudam você a se preparar.</string>
+    <string name="ui_add_situation">Adicionar situação</string>
+    <string name="ui_edit_situation">Editar situação</string>
+    <string name="ui_delete_situation">Excluir situação</string>
+    <string name="ui_add_alternative">Adicionar alternativa</string>
+    <string name="ui_edit_alternative">Editar alternativa</string>
+    <string name="ui_delete_alternative">Excluir alternativa</string>
+    <string name="ui_move_alternative_up">Subir alternativa</string>
+    <string name="ui_move_alternative_down">Descer alternativa</string>
+    <string name="ui_add_phrase">Adicionar frase</string>
+    <string name="ui_edit_phrase">Editar frase</string>
+    <string name="ui_delete_phrase">Excluir frase</string>
+    <string name="ui_copy">Copiar</string>
+    <string name="ui_move_phrase_up">Subir frase</string>
+    <string name="ui_move_phrase_down">Descer frase</string>
+    <string name="ui_delete_record">Excluir registro?</string>
+    <string name="ui_this_action_cannot_be_undone">Esta ação não pode ser desfeita.</string>
+    <string name="ui_text">Texto</string>
+    <string name="ui_location">Local</string>
+    <string name="ui_date">Data</string>
+    <string name="ui_date_and_time_optional">Data e hora (opcional)</string>
+    <string name="ui_dd_mm_yyyy_hh_mm">dd/MM/aaaa HH:mm</string>
+    <string name="ui_enter_a_valid_date_dd_mm_yyyy_hh_mm">Informe uma data válida: dd/MM/aaaa HH:mm</string>
+    <string name="ui_what_to_expect">O que esperar</string>
+    <string name="ui_what_to_bring">O que levar</string>
+    <string name="ui_notes">Observações</string>
+    <string name="ui_possible_situation">Situação possível</string>
+    <string name="ui_alternative_plan">Plano alternativo</string>
+    <string name="ui_no_related_situation">Sem situação associada</string>
+    <string name="ui_not_specified">Sem classificação</string>
+    <string name="ui_no_situations_saved">Nenhuma situação cadastrada.</string>
+    <string name="ui_no_alternatives_saved">Nenhuma alternativa cadastrada.</string>
+    <string name="ui_no_phrases_saved">Nenhuma frase cadastrada.</string>
+    <string name="ui_protect_your_records_in_a_password_encrypted_file_choose_where_to">Proteja seus registros em um arquivo criptografado com senha. Escolha onde salvar usando o seletor de documentos do Android.</string>
+    <string name="ui_if_you_forget_the_password_you_cannot_recover_the_backup_contents">Se você esquecer a senha, não será possível recuperar o conteúdo do backup.</string>
+    <string name="ui_use_at_least_8_characters">Use pelo menos 8 caracteres.</string>
+    <string name="ui_continue">Continuar</string>
+    <string name="ui_replace_current_data">Substituir os dados atuais?</string>
+    <string name="ui_restoring_will_replace_your_current_records_with_the_data_in_this">A restauração substituirá seus registros pelos dados deste backup.</string>
+    <string name="ui_restore">Restaurar</string>
+    <string name="ui_strategies">Estratégias</string>
+    <string name="ui_create_strategy">Criar estratégia</string>
+    <string name="ui_search_strategies">Pesquisar estratégias</string>
+    <string name="ui_invalid_date_dd_mm_yyyy_hh_mm">Data inválida: dd/MM/aaaa HH:mm</string>
+    <string name="ui_what_should_i_remember_next_time">O que lembrar para a próxima vez?</string>
+    <string name="ui_related_scenario_optional">Cenário relacionado (opcional)</string>
+    <string name="ui_no_related_scenario">Sem cenário relacionado</string>
+    <string name="ui_you_can_add_strategies_to_your_library">Você pode cadastrar estratégias na biblioteca.</string>
+    <string name="ui_save_experience">Salvar experiência</string>
+    <string name="ui_saving">Salvando…</string>
+    <string name="ui_close">Fechar</string>
+    <string name="ui_new_strategy">Nova estratégia</string>
+    <string name="ui_strategy">Estratégia</string>
+    <string name="ui_save_strategy">Salvar estratégia</string>
+    <string name="ui_loading">Carregando…</string>
+    <string name="ui_related_experiences">Experiências relacionadas</string>
+    <string name="ui_no_related_experiences">Nenhuma experiência associada.</string>
+    <string name="ui_delete_strategy">Excluir estratégia?</string>
+    <string name="ui_your_experiences_will_be_kept">As experiências serão preservadas.</string>
+    <string name="ui_personal_phrase">Frase pessoal</string>
+    <string name="ui_edit_preparation">Editar preparação</string>
+    <string name="ui_no_email_app_is_available">Nenhum aplicativo de e-mail disponível.</string>
+    <string name="ui_alternative_situation">Situação: %1$s</string>
+    <string name="settings_language">Idioma</string>
+    <string name="language_system">Idioma do sistema</string>
+    <string name="language_portuguese" translatable="false">Português (Brasil)</string>
+    <string name="language_english" translatable="false">English (US)</string>
+    <string name="language_spanish" translatable="false">Español</string>
+    <string name="scenario_missing">Cenário não encontrado.</string>
+    <string name="scenario_load_failed">Não foi possível carregar o cenário.</string>
+    <string name="situation_update_failed">Não foi possível atualizar a situação.</string>
+    <string name="preparation_saved">Preparação salva</string>
+    <string name="preparation_save_failed">Não foi possível salvar a preparação. Tente novamente.</string>
+    <string name="situation_added">Situação adicionada</string>
+    <string name="situation_add_failed">Não foi possível adicionar a situação. Tente novamente.</string>
+    <string name="situation_deleted">Situação excluída</string>
+    <string name="situation_delete_failed">Não foi possível excluir a situação. Tente novamente.</string>
+    <string name="plan_added">Plano alternativo adicionado</string>
+    <string name="plan_add_failed">Não foi possível adicionar o plano alternativo. Tente novamente.</string>
+    <string name="plan_updated">Plano atualizado</string>
+    <string name="plan_update_failed">Não foi possível atualizar o plano. Tente novamente.</string>
+    <string name="plan_deleted">Plano excluído</string>
+    <string name="plan_delete_failed">Não foi possível excluir o plano. Tente novamente.</string>
+    <string name="phrase_added">Frase adicionada</string>
+    <string name="phrase_add_failed">Não foi possível adicionar a frase. Tente novamente.</string>
+    <string name="phrase_updated">Frase atualizada</string>
+    <string name="phrase_update_failed">Não foi possível atualizar a frase. Tente novamente.</string>
+    <string name="phrase_deleted">Frase excluída</string>
+    <string name="phrase_delete_failed">Não foi possível excluir a frase. Tente novamente.</string>
+    <string name="phrase_reorder_failed">Não foi possível reordenar as frases. Tente novamente.</string>
+    <string name="plan_reorder_failed">Não foi possível reordenar os planos. Tente novamente.</string>
+    <string name="preparation_load_failed">Não foi possível carregar a preparação.</string>
+    <string name="strategy_deleted">Estratégia excluída</string>
+    <string name="strategy_delete_retry">Não foi possível excluir a estratégia. Tente novamente.</string>
+    <string name="strategy_save_failed">Não foi possível salvar a estratégia.</string>
+    <string name="strategy_delete_failed">Não foi possível excluir a estratégia.</string>
+    <string name="strategy_search_empty">Nenhuma estratégia encontrada</string>
+    <string name="experience_missing">Experiência não encontrada.</string>
+    <string name="experience_load_failed">Não foi possível carregar a experiência.</string>
+    <string name="experience_deleted">Experiência excluída</string>
+    <string name="experience_delete_failed">Não foi possível excluir a experiência. Tente novamente.</string>
+    <string name="experience_saved">Experiência salva</string>
+    <string name="experience_save_failed">Não foi possível salvar a experiência. Tente novamente.</string>
+    <string name="backup_creating">Criando backup…</string>
+    <string name="backup_restoring">Restaurando…</string>
+    <string name="backup_created">Backup criado com sucesso.</string>
+    <string name="backup_create_failed">Falha ao criar backup. Verifique o destino e tente novamente.</string>
+    <string name="backup_read_failed">Não foi possível ler o backup. Verifique a senha e a integridade do arquivo.</string>
+    <string name="backup_restored">Backup restaurado com sucesso.</string>
+    <string name="backup_restore_failed">Não foi possível restaurar o backup. Os dados do banco foram preservados.</string>
+</resources>

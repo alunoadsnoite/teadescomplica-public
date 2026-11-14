@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema escuro -->
+    <color name="background">#1A1A1C</color>
+    <color name="surface">#232326</color>
+    <color name="surfaceVariant">#2C2C30</color>
+    <color name="primary">#B9C6DA</color>
+    <color name="onPrimary">#141B24</color>
+    <color name="primaryContainer">#3E4A5A</color>
+    <color name="onPrimaryContainer">#CFDAE6</color>
+    <color name="secondary">#9FAE9F</color>
+    <color name="onSecondary">#1C241C</color>
+    <color name="onSurface">#E7E6EA</color>
+    <color name="onSurfaceVariant">#A9AB9E</color>
+    <color name="outline">#44464A</color>
+    <color name="error">#F48C91</color>
+    <color name="onError">#1C1B1E</color>
+</resources>
