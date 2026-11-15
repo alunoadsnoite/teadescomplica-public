@@ -143,7 +143,7 @@ TEADescomplica/
 | minSdk | 26 |
 | Banco de dados | Versão 3 (migrações v1→v2, v2→v3) |
 | Formato de backup | Versão 1 (.teadbackup) |
-| Versão candidata | 1.1.0 (versionCode 2) |
+| Versão candidata | 1.1.1 (versionCode 3) |
 
 ## Compilação
 
