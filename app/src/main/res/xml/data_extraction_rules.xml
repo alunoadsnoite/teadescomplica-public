@@ -9,10 +9,12 @@
       dispositivos comprometidos, root ou acesso fisico indevido.
     -->
     <cloud-backup>
+        <exclude domain="file" path="datastore/" />
         <exclude domain="database" path="." />
         <exclude domain="sharedpref" path="." />
     </cloud-backup>
     <device-transfer>
+        <exclude domain="file" path="datastore/" />
         <exclude domain="database" path="." />
         <exclude domain="sharedpref" path="." />
     </device-transfer>

@@ -2,7 +2,7 @@
 
 **Prepare-se do seu jeito.**
 
-Aplicativo Android para pessoas autistas que desejam se preparar para situações cotidianas, antecipar imprevistos e registrar estratégias pessoais. Funcionamento totalmente offline, sem conta, sem servidor, sem publicidade e sem coleta de dados pessoais.
+Aplicativo Android para pessoas autistas que desejam se preparar para situações cotidianas, antecipar imprevistos e registrar estratégias pessoais. Funcionamento totalmente offline, sem conta, sem servidor, sem publicidade e com registros pessoais armazenados no aparelho.
 
 ## Objetivo
 
@@ -25,7 +25,7 @@ Este aplicativo **não é** uma ferramenta de diagnóstico, terapia, tratamento 
 - Nenhuma publicidade.
 - Nenhuma telemetria ou analytics.
 - Nenhum SDK de rastreamento.
-- Nenhuma coleta ou transmissão de dados pessoais.
+- Os registros ficam no aparelho. Você pode exportar uma cópia criptografada para um destino à sua escolha.
 - Armazenamento local no dispositivo.
 - Interface acessível e previsível.
 - Código-fonte aberto (GPL-3.0-or-later).
@@ -143,7 +143,7 @@ TEADescomplica/
 | minSdk | 26 |
 | Banco de dados | Versão 3 (migrações v1→v2, v2→v3) |
 | Formato de backup | Versão 1 (.teadbackup) |
-| Versão candidata | 1.1.0 (versionCode 2) |
+| Versão candidata | 1.1.1 (versionCode 3) |
 
 ## Compilação
 

@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O TEA Descomplica **não coleta, não transmite e não compartilha** dados pessoais. Todos os dados são armazenados exclusivamente no seu dispositivo. O aplicativo não exibe anúncios, não exige conta, não usa internet e não possui servidores.
+O TEA Descomplica guarda no aparelho os registros que você insere. O desenvolvedor não recebe esses registros pelo aplicativo. O aplicativo funciona sem anúncios, conta ou conexão própria com a internet.
 
 ## Dados Armazenados Localmente
 
@@ -28,7 +28,7 @@ O TEA Descomplica oferece backup manual criptografado via Storage Access Framewo
 - O backup é iniciado exclusivamente por você.
 - Você define uma senha para proteger o backup.
 - Você escolhe onde salvar o arquivo de backup (incluindo provedores externos como Google Drive, quando disponíveis pelo seletor do Android).
-- O aplicativo não se conecta diretamente ao Google Drive nem a qualquer serviço de nuvem.
+- Se você escolher um serviço de nuvem, esse serviço poderá sincronizar o arquivo criptografado conforme suas próprias configurações. Para manter a cópia no aparelho, selecione uma pasta local.
 - O arquivo de backup é criptografado com AES-256-GCM usando uma chave derivada de sua senha.
 - A senha não é armazenada pelo aplicativo. Se você esquecer a senha, não será possível recuperar o conteúdo do backup.
 - A restauração substitui completamente todos os dados atuais pelos dados do backup.

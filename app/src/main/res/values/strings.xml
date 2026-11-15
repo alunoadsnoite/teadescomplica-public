@@ -48,7 +48,7 @@
     <string name="settings_reduced_motion_summary">Desativa animações de interface.</string>
     <string name="settings_privacy">Privacidade e dados</string>
     <string name="settings_privacy_summary">Seus dados ficam apenas no seu dispositivo.</string>
-    <string name="privacy_text">Este aplicativo não coleta, transmite ou compartilha dados pessoais. Não exibe anúncios, não exige conta e não usa internet. Tudo é armazenado localmente no seu dispositivo.</string>
+    <string name="privacy_text">O app guarda seus registros no aparelho, sem conta ou anúncios. Se você exportar um backup criptografado, o local escolhido pode sincronizar o arquivo.</string>
     <string name="settings_developer">Desenvolvedor</string>
     <string name="settings_developer_name">Valdenor</string>
     <string name="settings_developer_email">alunoadsnoite@gmail.com</string>
@@ -150,7 +150,7 @@
     <string name="backup_info_local">Os backups são salvos apenas no local que você escolher, usando o seletor de documentos do Android.</string>
     <string name="backup_info_drive">O Google Drive pode ser usado quando disponível pelo seletor do Android. O aplicativo não se conecta diretamente ao Google Drive.</string>
     <string name="backup_info_password_warning">Se você esquecer a senha do backup, não será possível recuperar o conteúdo desse arquivo.</string>
-    <string name="backup_info_privacy">Seus dados nunca são transmitidos pela rede. O backup é iniciado exclusivamente por você.</string>
+    <string name="backup_info_privacy">Você inicia o backup e escolhe onde salvar. Para mantê-lo no aparelho, selecione uma pasta local.</string>
     <string name="backup_password_title">Definir senha do backup</string>
     <string name="backup_password_label">Senha</string>
     <string name="backup_password_confirm_label">Confirmar senha</string>

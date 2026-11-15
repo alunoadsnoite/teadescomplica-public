@@ -42,7 +42,7 @@
     <string name="settings_reduced_motion_summary">Reduce las animaciones de la interfaz.</string>
     <string name="settings_privacy">Privacidad y datos</string>
     <string name="settings_privacy_summary">Tus datos permanecen en tu dispositivo.</string>
-    <string name="privacy_text">La aplicación no recopila, transmite ni comparte datos personales. Funciona sin anuncios, cuenta ni conexión a internet. Todo se guarda en tu dispositivo.</string>
+    <string name="privacy_text">La aplicación guarda tus registros en el dispositivo, sin cuenta ni anuncios. Si exportas una copia cifrada, el destino que elijas puede sincronizar el archivo.</string>
     <string name="settings_developer">Desarrollador</string>
     <string name="settings_developer_name">Valdenor</string>
     <string name="settings_developer_email">alunoadsnoite@gmail.com</string>
@@ -126,7 +126,7 @@
     <string name="backup_info_local">Las copias solo se guardan en la ubicación que elijas con el selector de archivos de Android.</string>
     <string name="backup_info_drive">Google Drive puede aparecer en el selector de archivos de Android. La aplicación no se conecta directamente con Google Drive.</string>
     <string name="backup_info_password_warning">Si olvidas la contraseña, no podrás recuperar el contenido de la copia.</string>
-    <string name="backup_info_privacy">La aplicación no transmite tus datos por la red. Solo tú puedes iniciar una copia.</string>
+    <string name="backup_info_privacy">Tú inicias la copia y eliges dónde guardarla. Para mantenerla en el dispositivo, selecciona una carpeta local.</string>
     <string name="backup_password_title">Establecer contraseña para la copia</string>
     <string name="backup_password_label">Contraseña</string>
     <string name="backup_password_confirm_label">Confirmar contraseña</string>

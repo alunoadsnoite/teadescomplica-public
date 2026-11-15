@@ -1,0 +1,1 @@
+Aviso mais claro na exportação e exclusão das preferências do backup automático.
