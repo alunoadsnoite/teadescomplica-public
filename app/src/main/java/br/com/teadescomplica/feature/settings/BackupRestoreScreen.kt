@@ -61,6 +61,7 @@ fun BackupRestoreScreen(onBackClick: () -> Unit, modifier: Modifier = Modifier) 
         Text(
             stringResource(R.string.ui_protect_your_records_in_a_password_encrypted_file_choose_where_to)
         )
+        Text(stringResource(R.string.backup_info_privacy))
         Button(
             onClick = {
                 vm.clearFeedback()

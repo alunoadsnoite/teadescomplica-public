@@ -42,7 +42,7 @@
     <string name="settings_reduced_motion_summary">Reduces interface animations.</string>
     <string name="settings_privacy">Privacy and data</string>
     <string name="settings_privacy_summary">Your data stays on your device.</string>
-    <string name="privacy_text">This app does not collect, transmit, or share personal data. It has no ads, requires no account, and does not use the internet. Everything is stored locally on your device.</string>
+    <string name="privacy_text">The app saves your records on your device, without an account or ads. If you export an encrypted backup, the destination you choose may sync the file.</string>
     <string name="settings_developer">Developer</string>
     <string name="settings_developer_name">Valdenor</string>
     <string name="settings_developer_email">alunoadsnoite@gmail.com</string>
@@ -126,7 +126,7 @@
     <string name="backup_info_local">Backups are saved only where you choose, using the Android document picker.</string>
     <string name="backup_info_drive">Google Drive may be available through the Android document picker. The app does not connect directly to Google Drive.</string>
     <string name="backup_info_password_warning">If you forget the backup password, you cannot recover the contents of that file.</string>
-    <string name="backup_info_privacy">The app does not transmit your data over the network. Only you can start a backup.</string>
+    <string name="backup_info_privacy">You start the backup and choose where to save it. To keep it on the device, select a local folder.</string>
     <string name="backup_password_title">Set a backup password</string>
     <string name="backup_password_label">Password</string>
     <string name="backup_password_confirm_label">Confirm password</string>
