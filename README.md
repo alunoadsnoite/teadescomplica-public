@@ -1,5 +1,16 @@
 # TEA Descomplica
 
+**Prepare situações, planeje alternativas e registre o que ajuda.**
+
+`Kotlin · Jetpack Compose · Room`
+
+[Reportar problema](https://github.com/alunoadsnoite/teadescomplica-public/issues) · [Licença](LICENSE) · [Privacidade](PRIVACY.md)
+
+## Veja o aplicativo
+
+<img src="fastlane/metadata/android/pt-BR/images/phoneScreenshots/1.png" alt="Tela 1 do TEA Descomplica" width="240">
+<img src="fastlane/metadata/android/pt-BR/images/phoneScreenshots/2.png" alt="Tela 2 do TEA Descomplica" width="240">
+
 **Prepare-se do seu jeito.**
 
 Aplicativo Android para pessoas autistas que desejam se preparar para situações cotidianas, antecipar imprevistos e registrar estratégias pessoais. Funcionamento totalmente offline, sem conta, sem servidor, sem publicidade e com registros pessoais armazenados no aparelho.
@@ -197,3 +208,7 @@ Copyright (C) 2026 Valdenor.
 ### Idioma
 
 Em **Configurações → Idioma**, escolha Português (Brasil), English (US), Español ou o idioma do sistema. A preferência é salva no dispositivo. Em Android 13 ou posterior, ela também pode ser alterada nas configurações de idioma do aplicativo no sistema.
+
+## Como contribuir
+
+Sugestões, traduções e relatos de problemas são bem-vindos. Abra uma issue com o contexto e o comportamento esperado. Para alterações de código, explique a mudança e os testes realizados no pull request. Use dados fictícios nos exemplos e nas capturas.
