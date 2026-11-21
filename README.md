@@ -138,10 +138,10 @@ TEADescomplica/
 | Componente | Versão |
 |------------|--------|
 | Android Gradle Plugin | 8.8.2 |
-| Kotlin | 2.4.21 |
-| Compose Compiler | 2.4.21 |
+| Kotlin | 2.0.21 |
+| Compose Compiler | 2.0.21 |
 | Compose BOM | 2024.10.00 |
-| Room | 2.5.2 |
+| Room | 2.6.1 |
 | DataStore Preferences | 1.1.1 |
 | Coroutines | 1.9.0 |
 | Lifecycle | 2.7.0 |
@@ -168,7 +168,7 @@ TEADescomplica/
 - Android SDK com build-tools 34.0.0
 - Gradle Wrapper (já incluído)
 
-> **Limitação de execução:** Este ambiente não possui acesso ao repositório Maven do Google (`dl.google.com`), necessário para baixar algumas dependências do AndroidX Compose, Room e KSP. A compilação completa não pôde ser executada neste ambiente. O código-fonte está completo e estruturado para compilar em um ambiente com acesso aos repositórios padrão do Android.
+O GitHub Actions está configurado para executar testes unitários, lint e compilação de debug. Consulte o resultado em [Actions](https://github.com/alunoadsnoite/teadescomplica-public/actions). O download inicial de dependências exige acesso aos repositórios Maven configurados no projeto.
 
 ## Telas Implementadas
 
