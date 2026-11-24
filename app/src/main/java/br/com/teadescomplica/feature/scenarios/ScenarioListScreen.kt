@@ -21,6 +21,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.semantics.contentDescription
@@ -47,6 +48,7 @@ fun ScenarioListScreen(
     val uiState = viewModel.uiState.collectAsState().value
     val snackbarHostState = remember { SnackbarHostState() }
 
+    var showRightsGuides by rememberSaveable { mutableStateOf(false) }
     var showDeleteDialog by remember { mutableStateOf(false) }
     var deleteTargetId by remember { mutableStateOf(0L) }
 
@@ -76,6 +78,14 @@ fun ScenarioListScreen(
         ) {
             Text(stringResource(R.string.button_new_scenario))
         }
+
+        TextButton(
+            onClick = { showRightsGuides = true },
+            modifier = Modifier.padding(horizontal = 16.dp),
+        ) {
+            Text(stringResource(R.string.rights_guides))
+        }
+        if (showRightsGuides) RightsGuides(onDismiss = { showRightsGuides = false })
 
         Box(modifier = Modifier.weight(1f)) {
             SnackbarHost(hostState = snackbarHostState)

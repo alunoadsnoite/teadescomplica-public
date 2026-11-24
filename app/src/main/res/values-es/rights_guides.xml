@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rights_guides">Derechos en Brasil</string>
+    <string name="rights_guides_intro">Consulta estas guías para preparar una solicitud de apoyo. Funcionan sin conexión. Las fuentes oficiales se abren en el navegador.</string>
+    <string name="rights_priority">Atención prioritaria</string>
+    <string name="rights_priority_steps">La Ley brasileña n.º 10.048 incluye a las personas autistas en la atención prioritaria. Pregunta en recepción por la atención prioritaria y la documentación aplicable. En los servicios de urgencias se siguen los protocolos de atención médica.</string>
+    <string name="rights_priority_phrase">Soy una persona autista. ¿Dónde puedo solicitar atención prioritaria?</string>
+    <string name="rights_school">Apoyo en la escuela</string>
+    <string name="rights_school_steps">Pide una reunión con la escuela para hablar sobre adaptaciones. La Ley brasileña n.º 12.764 prevé un acompañante especializado para estudiantes autistas en clases ordinarias cuando existe una necesidad comprobada.</string>
+    <string name="rights_school_phrase">Quiero hablar sobre los apoyos que necesito para participar en las actividades escolares. ¿Podemos acordar los próximos pasos?</string>
+    <string name="rights_health">Comunicación en la consulta</string>
+    <string name="rights_health_steps">El artículo 24 de la Ley Brasileña de Inclusión garantiza el acceso a la información de salud mediante comunicación accesible. Indica al equipo cómo prefieres recibir preguntas, responder y hacer pausas.</string>
+    <string name="rights_health_phrase">Necesito tiempo para responder. Por favor, hazme una pregunta a la vez y permíteme responder por escrito o con mi tablero.</string>
+    <string name="rights_copy">Copiar frase</string>
+    <string name="rights_copied">Frase copiada</string>
+    <string name="rights_source">Abrir fuente oficial en el navegador</string>
+    <string name="rights_source_error">No se pudo abrir el navegador.</string>
+    <string name="rights_reviewed">Revisado el 24/11/2026</string>
+    <string name="rights_close">Cerrar</string>
+    <string name="rights_back">Volver a las guías</string>
+</resources>

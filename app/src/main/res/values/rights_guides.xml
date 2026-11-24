@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rights_guides">Direitos no Brasil</string>
+    <string name="rights_guides_intro">Consulte estes roteiros para preparar um pedido de apoio. Os guias funcionam offline. As fontes oficiais abrem no navegador.</string>
+    <string name="rights_priority">Atendimento prioritário</string>
+    <string name="rights_priority_steps">A Lei nº 10.048 inclui pessoas autistas no atendimento prioritário. Peça orientação à recepção sobre o atendimento e a comprovação aplicável. Nos serviços de emergência, prevalecem os protocolos de atendimento médico.</string>
+    <string name="rights_priority_phrase">Sou uma pessoa autista. Onde posso solicitar atendimento prioritário?</string>
+    <string name="rights_school">Apoio na escola</string>
+    <string name="rights_school_steps">Peça uma conversa com a escola para combinar adaptações. Para estudantes autistas em classes comuns, a Lei nº 12.764 prevê acompanhante especializado quando há necessidade comprovada.</string>
+    <string name="rights_school_phrase">Quero conversar sobre os apoios de que preciso para participar das atividades da escola. Podemos combinar os próximos passos?</string>
+    <string name="rights_health">Comunicação durante a consulta</string>
+    <string name="rights_health_steps">O art. 24 da Lei Brasileira de Inclusão assegura o acesso à informação em saúde por meios de comunicação acessíveis. Diga à equipe como prefere receber perguntas, responder e fazer pausas.</string>
+    <string name="rights_health_phrase">Preciso de tempo para responder. Por favor, faça uma pergunta por vez e me deixe responder por escrito ou pela minha prancha.</string>
+    <string name="rights_copy">Copiar frase</string>
+    <string name="rights_copied">Frase copiada</string>
+    <string name="rights_source">Abrir fonte oficial no navegador</string>
+    <string name="rights_source_error">Não foi possível abrir o navegador.</string>
+    <string name="rights_reviewed">Revisado em 24/11/2026</string>
+    <string name="rights_close">Fechar</string>
+    <string name="rights_back">Voltar aos guias</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rights_guides">Rights in Brazil</string>
+    <string name="rights_guides_intro">Use these guides to prepare a request for support. The guides work offline. Official sources open in your browser.</string>
+    <string name="rights_priority">Priority service</string>
+    <string name="rights_priority_steps">Brazilian Law No. 10,048 includes autistic people in priority service. Ask reception about priority service and any documentation. In emergency services, medical protocols govern priority.</string>
+    <string name="rights_priority_phrase">I am autistic. Where can I request priority service?</string>
+    <string name="rights_school">Support at school</string>
+    <string name="rights_school_steps">Ask to meet with the school to discuss accommodations. Brazilian Law No. 12,764 provides for a specialized support person when the need is demonstrated for autistic students in mainstream classes.</string>
+    <string name="rights_school_phrase">I would like to discuss the support I need to participate in school activities. Can we agree on next steps?</string>
+    <string name="rights_health">Communication at a medical appointment</string>
+    <string name="rights_health_steps">Article 24 of the Brazilian Inclusion Act guarantees access to health information through accessible communication. Tell the team how you prefer to receive questions, respond and take breaks.</string>
+    <string name="rights_health_phrase">I need time to respond. Please ask one question at a time and let me answer in writing or with my communication board.</string>
+    <string name="rights_copy">Copy phrase</string>
+    <string name="rights_copied">Phrase copied</string>
+    <string name="rights_source">Open official source in browser</string>
+    <string name="rights_source_error">Could not open the browser.</string>
+    <string name="rights_reviewed">Reviewed 24 November 2026</string>
+    <string name="rights_close">Close</string>
+    <string name="rights_back">Back to guides</string>
+</resources>
